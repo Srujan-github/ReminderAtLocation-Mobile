@@ -24,7 +24,7 @@ class MainActivity : ComponentActivity() {
                     Column(modifier = Modifier
                         .fillMaxSize()
                         .padding(innerPadding), verticalArrangement = Arrangement.Center, horizontalAlignment = Alignment.CenterHorizontally) {
-                            Text(text = "Hello App")
+                            Text(text = "Hello ok super")
                     }
                 }
             }
